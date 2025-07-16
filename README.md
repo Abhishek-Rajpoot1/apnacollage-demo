@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository
 <br>
-Author - Abhishek Rajpoot
+<h2>Author - Abhishek Rajpoot</h2>
